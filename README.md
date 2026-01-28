@@ -1,4 +1,3 @@
-<<<<<<< HEAD
  # 🧑‍💼 Employee Management System (Python + MySQL)
 
  ## 📌 Project Overview
