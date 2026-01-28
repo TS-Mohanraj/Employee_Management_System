@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # 🧑‍💼 Employee Management System (Python + MySQL)
 
  ## 📌 Project Overview
@@ -55,3 +56,6 @@ CREATE TABLE employees (
 ## 👤 Author
 Mohanraj T S
 Aspiring Python and SQL Developer
+=======
+
+>>>>>>> 6a41a160afab575550b4bb9ec6ff308bc2b1ebb5
